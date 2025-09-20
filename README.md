@@ -1,4 +1,4 @@
-# NOME PROJETO: Imersão Dados com Python: Dashboard Interativo de Salários 🚀
+# Imersão Dados com Python: Dashboard Interativo de Salários 🚀
 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
